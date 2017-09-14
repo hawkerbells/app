@@ -1,0 +1,52 @@
+
+
+JavaSource
+WebContent
+
+--------------------------------------------
+\JavaSource
+
+com\dos
+com\dos\stats
+com\dos\stats\fas
+maint
+          client
+          	actions
+          	forms
+          	data
+
+server
+          manager
+          db
+          	daoimpl
+          vo
+	  voassembler
+          util
+trans
+          client
+          	actions
+          	data
+          	forms
+
+util
+
+
+-----------------------------------------------
+
+
+WebContent
+          css
+          images
+          js
+          jsp
+	          common
+          	  maint
+                  menu
+
+	 skins
+         templates
+         WEB-INF
+                 classes
+                 dtd
+                 lib
+                 tld
